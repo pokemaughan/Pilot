@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pilot</string>
+    <color name="pilot_light_blue">#accfec</color>
+</resources>
